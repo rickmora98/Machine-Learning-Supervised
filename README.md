@@ -3,8 +3,8 @@
 This repository contains my solutions to Data Analytics Bootcamp Homework Assignment for week #19.<br>
 
 This assignment examines the performance of two Supervised Learning Models: the Logistic Regression Model and the Random Forest Classifier.<br>
-Both models use the lending data contained in the files indicated below for training and testing.  The models first uses unscaled versions<br>
-of the data and then the process is repeated with scaled versions of the data.<br>
+Both models use the lending data contained in the files indicated below for training and testing.<br>
+The models first uses unscaled versions of the data and then the process is repeated with scaled versions of the data.<br>
 All code and output are contained in the Jupyter notebook: *"Credit Risk Evaluator.ipynb"*.<br>
 Predictions and conclusions about the accuracy of these two models are also contained within the notebook.
 
