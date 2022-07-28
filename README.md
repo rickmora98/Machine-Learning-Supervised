@@ -29,4 +29,5 @@ To examine the data and code files, their locations are indicated in the tree be
 Ricardo G. Mora, Jr.  02/02/2022
  
 #### Sample Code:
-
+<img src="/Images/LogisticRegression.jpg">
+<img src="/Images/RandomForest.jpg">
