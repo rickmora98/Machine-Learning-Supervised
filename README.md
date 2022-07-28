@@ -1,8 +1,6 @@
-# supervised-learning-challenge 
+# Machine-Learning-Supervised (Credit Risk Evaluator)
 
-This repository contains my solutions to Data Analytics Bootcamp Homework Assignment for week #19.<br>
-
-This assignment examines the performance of two Supervised Learning Models: the Logistic Regression Model and the Random Forest Classifier.<br>
+This project examines the performance of two Supervised Learning Models: the Logistic Regression Model and the Random Forest Classifier.<br>
 Both models use the lending data contained in the files indicated below for training and testing.<br>
 The models first uses unscaled versions of the data and then the process is repeated with scaled versions of the data.<br>
 All code and output are contained in the Jupyter notebook: *"Credit Risk Evaluator.ipynb"*.<br>
@@ -31,5 +29,6 @@ Please do not delete, move, rename, or alter any of these folders and/or files. 
 Thank you. <br>
 
 #### Submitted by: <br>
- Ricardo G. Mora, Jr.  02/02/2022
+Ricardo G. Mora, Jr.  02/02/2022
  
+<hr>
