@@ -24,9 +24,6 @@ To examine the data and code files, their locations are indicated in the tree be
 		- *"LoanStats_2020Q1.csv.zip"*	
 
 (Please do not delete, move, rename, or alter!) <br>
-
-#### Submitted by: <br>
-Ricardo G. Mora, Jr.  02/02/2022
  
 #### Sample Code:
 <img src="/Images/LogisticRegression.jpg">
