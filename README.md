@@ -1,4 +1,4 @@
-# Credit Risk Evaluator (Supervised Machine Learning Demonstration)
+<h1> Credit Risk Evaluator <br> (Supervised Machine Learning Demonstration) </h1>
 
 #### Overview:
 This project examines the performance of two Supervised Learning Models: the Logistic Regression Model and the Random Forest Classifier.<br>
